@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6eedc0c7ea8bef4fbe3cc3529100684, type: 3}
+  m_Name: OrdinaryLevels
+  m_EditorClassIdentifier: 
+  Levels:
+  - LevelNumber: 1
+    TargetData:
+      TargetQuantity: 1
+      TargetType: 00000000
+      SpawnPoints:
+      - {fileID: 7155543577949894588, guid: 34f121a48c452f14fbbfa953d26d69b8, type: 3}
+    DefenderData:
+      DefenderQuantity: 1
+      DefenderSpeed: 1.2
+      DefenderType: 00000000
+      SpawnPoints:
+      - {fileID: 2484732853965793763, guid: 10383bded21eb3d4cb499a47f1952667, type: 3}
+      StartPoints:
+      - {x: -1.2750001, y: -4.425, z: -3.18}
+      EndPoints:
+      - {x: 1.275, y: -4.425, z: -3.18}
+      Rotation:
+      - {x: 0, y: 0, z: 0}
+  - LevelNumber: 2
+    TargetData:
+      TargetQuantity: 3
+      TargetType: 000000000000000000000000
+      SpawnPoints:
+      - {fileID: 7155543577949894588, guid: 34f121a48c452f14fbbfa953d26d69b8, type: 3}
+      - {fileID: 1591797994759979252, guid: d0e9c6d8493ed3843a1e72381c6b2053, type: 3}
+      - {fileID: 7662822637626024631, guid: 7764cb69aacb32942980251129fc160f, type: 3}
+    DefenderData:
+      DefenderQuantity: 2
+      DefenderSpeed: 1.3
+      DefenderType: 0000000000000000
+      SpawnPoints:
+      - {fileID: 2484732853965793763, guid: 10383bded21eb3d4cb499a47f1952667, type: 3}
+      - {fileID: 5123079048252661462, guid: fbec63d6ae186e14982e26d5dd970f57, type: 3}
+      StartPoints:
+      - {x: -1.2750001, y: -4.425, z: -3.18}
+      - {x: -1.25, y: -4.425, z: -3.18}
+      EndPoints:
+      - {x: 1.275, y: -4.425, z: -3.18}
+      - {x: -1.2500005, y: -4.425, z: -7.9800005}
+      Rotation:
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 90, z: 0}
+  - LevelNumber: 3
+    TargetData:
+      TargetQuantity: 3
+      TargetType: 000000000200000002000000
+      SpawnPoints:
+      - {fileID: 7155543577949894588, guid: 34f121a48c452f14fbbfa953d26d69b8, type: 3}
+      - {fileID: 1591797994759979252, guid: d0e9c6d8493ed3843a1e72381c6b2053, type: 3}
+      - {fileID: 7662822637626024631, guid: 7764cb69aacb32942980251129fc160f, type: 3}
+    DefenderData:
+      DefenderQuantity: 3
+      DefenderSpeed: 1.3
+      DefenderType: 000000000000000000000000
+      SpawnPoints:
+      - {fileID: 2484732853965793763, guid: 10383bded21eb3d4cb499a47f1952667, type: 3}
+      - {fileID: 5123079048252661462, guid: fbec63d6ae186e14982e26d5dd970f57, type: 3}
+      - {fileID: 5123079048252661462, guid: d03c41048ccee854fb5adf1c628ac297, type: 3}
+      StartPoints:
+      - {x: -1.2750001, y: -4.425, z: -3.18}
+      - {x: -1.25, y: -4.425, z: -3.18}
+      - {x: 1.25, y: -4.425, z: -3.18}
+      EndPoints:
+      - {x: 1.275, y: -4.425, z: -3.18}
+      - {x: -1.2500005, y: -4.425, z: -7.9800005}
+      - {x: 1.25, y: -4.425, z: -7.9800005}
+      Rotation:
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 90, z: 0}
+      - {x: 0, y: 90, z: 0}
+  - LevelNumber: 4
+    TargetData:
+      TargetQuantity: 3
+      TargetType: 020000000200000002000000
+      SpawnPoints:
+      - {fileID: 7155543577949894588, guid: 34f121a48c452f14fbbfa953d26d69b8, type: 3}
+      - {fileID: 1591797994759979252, guid: d0e9c6d8493ed3843a1e72381c6b2053, type: 3}
+      - {fileID: 7662822637626024631, guid: 7764cb69aacb32942980251129fc160f, type: 3}
+    DefenderData:
+      DefenderQuantity: 3
+      DefenderSpeed: 1.4
+      DefenderType: 000000000000000000000000
+      SpawnPoints:
+      - {fileID: 2484732853965793763, guid: 10383bded21eb3d4cb499a47f1952667, type: 3}
+      - {fileID: 5123079048252661462, guid: fbec63d6ae186e14982e26d5dd970f57, type: 3}
+      - {fileID: 5123079048252661462, guid: d03c41048ccee854fb5adf1c628ac297, type: 3}
+      StartPoints:
+      - {x: -1.2750001, y: -4.425, z: -3.18}
+      - {x: -1.25, y: -4.425, z: -3.18}
+      - {x: 1.25, y: -4.425, z: -3.18}
+      EndPoints:
+      - {x: 1.275, y: -4.425, z: -3.18}
+      - {x: -1.2500005, y: -4.425, z: -7.9800005}
+      - {x: 1.25, y: -4.425, z: -7.9800005}
+      Rotation:
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 90, z: 0}
+      - {x: 0, y: 90, z: 0}
+  - LevelNumber: 5
+    TargetData:
+      TargetQuantity: 3
+      TargetType: 020000000200000002000000
+      SpawnPoints:
+      - {fileID: 7155543577949894588, guid: 34f121a48c452f14fbbfa953d26d69b8, type: 3}
+      - {fileID: 1591797994759979252, guid: d0e9c6d8493ed3843a1e72381c6b2053, type: 3}
+      - {fileID: 7662822637626024631, guid: 7764cb69aacb32942980251129fc160f, type: 3}
+    DefenderData:
+      DefenderQuantity: 4
+      DefenderSpeed: 1.4
+      DefenderType: 00000000000000000000000001000000
+      SpawnPoints:
+      - {fileID: 2484732853965793763, guid: 10383bded21eb3d4cb499a47f1952667, type: 3}
+      - {fileID: 5123079048252661462, guid: fbec63d6ae186e14982e26d5dd970f57, type: 3}
+      - {fileID: 5123079048252661462, guid: d03c41048ccee854fb5adf1c628ac297, type: 3}
+      - {fileID: 5123079048252661462, guid: 3b59de1be83d7204783b383c35d7dca2, type: 3}
+      StartPoints:
+      - {x: -1.2750001, y: -4.425, z: -3.18}
+      - {x: -1.25, y: -4.425, z: -3.18}
+      - {x: 1.25, y: -4.425, z: -3.18}
+      - {x: 0, y: -4.8, z: -5.8}
+      EndPoints:
+      - {x: 1.275, y: -4.425, z: -3.18}
+      - {x: -1.2500005, y: -4.425, z: -7.9800005}
+      - {x: 1.25, y: -4.425, z: -7.9800005}
+      - {x: 0, y: -4.3, z: -5.8}
+      Rotation:
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 90, z: 0}
+      - {x: 0, y: 90, z: 0}
+      - {x: 0, y: 90, z: 0}
+  - LevelNumber: 5
+    TargetData:
+      TargetQuantity: 3
+      TargetType: 010000000100000001000000
+      SpawnPoints:
+      - {fileID: 7155543577949894588, guid: 34f121a48c452f14fbbfa953d26d69b8, type: 3}
+      - {fileID: 1591797994759979252, guid: d0e9c6d8493ed3843a1e72381c6b2053, type: 3}
+      - {fileID: 7662822637626024631, guid: 7764cb69aacb32942980251129fc160f, type: 3}
+    DefenderData:
+      DefenderQuantity: 5
+      DefenderSpeed: 1.4
+      DefenderType: 0000000000000000000000000100000000000000
+      SpawnPoints:
+      - {fileID: 5123079048252661462, guid: fbec63d6ae186e14982e26d5dd970f57, type: 3}
+      - {fileID: 5123079048252661462, guid: fbec63d6ae186e14982e26d5dd970f57, type: 3}
+      - {fileID: 5123079048252661462, guid: d03c41048ccee854fb5adf1c628ac297, type: 3}
+      - {fileID: 5123079048252661462, guid: 3b59de1be83d7204783b383c35d7dca2, type: 3}
+      - {fileID: 5123079048252661462, guid: d03c41048ccee854fb5adf1c628ac297, type: 3}
+      StartPoints:
+      - {x: 1.25, y: -4.425, z: -3.18}
+      - {x: -1.25, y: -4.425, z: -3.18}
+      - {x: 1.25, y: -4.425, z: -3.18}
+      - {x: 0, y: -4.8, z: -5.8}
+      - {x: -1.25, y: -4.425, z: -3.18}
+      EndPoints:
+      - {x: -1.25, y: -4.425, z: -3.18}
+      - {x: -1.2500005, y: -4.425, z: -7.9800005}
+      - {x: 1.25, y: -4.425, z: -7.9800005}
+      - {x: 0, y: -4.3, z: -5.8}
+      - {x: 1.25, y: -4.425, z: -3.18}
+      Rotation:
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 90, z: 0}
+      - {x: 0, y: 90, z: 0}
+      - {x: 0, y: 90, z: 0}
+      - {x: 0, y: 0, z: 0}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a507159752ef4439f21203c16fa6db, type: 3}
+  m_Name: DefenderFactory
+  m_EditorClassIdentifier: 
+  horizontalDefenderPrefab: {fileID: 8715393993997876586, guid: 79c8330ff14c5aa47987ddcf4611153a,
+    type: 3}
+  verticalDefenderPrefab: {fileID: 1882400885066475415, guid: d1e6642396ae0604f91b38b1e5b4ec0c,
+    type: 3}
