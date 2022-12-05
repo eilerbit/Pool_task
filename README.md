@@ -1,5 +1,5 @@
 # Pool_demo
-Unity demo project - OOP, URP, mobile, New Input System, default UI
+Unity demo project 2021.3.12f1 - OOP, URP, mobile, New Input System, default UI
 
 Use Instructions:
 - Download ZIP
