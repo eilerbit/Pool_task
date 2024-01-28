@@ -1,5 +1,5 @@
 # Pool_task
-Unity hypercasual game task project 2021.3.12f1 - OOP, URP, mobile, New Input System, UGUI
+Unity hypercasual game task project 2022.3.18f1 - OOP, URP, mobile, New Input System, UGUI
 
 Review Task for junior and middle developers:
 - What design problems of this project can you define?
