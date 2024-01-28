@@ -1,10 +1,14 @@
-# Pool_demo
-Unity hypercasual game demo project 2021.3.12f1 - OOP, URP, mobile, New Input System, default UI
+# Pool_Task
+Unity hypercasual game task project 2021.3.12f1 - OOP, URP, mobile, New Input System, UGUI
+Review Task for junior and middle developers:
+- What design problems of this project can you define?
+- How can you solve them?
+- What new problems can arise if we scale this project up?  
 
-Use Instructions:
-- Download ZIP
-- Unpack
-- Add "Pool" folder in Unity HUB
-- Open Pool project
-- File/Build Settings, choose "Android", press Switch Platform
-- Open Window/Analysis/Input Debugger, in Input Debugger window open options and enable "Simulate Touch Input from Mouse or Pen"
+//Delete before submit
+Issues:
+- Naming
+- Architecture (esp. high-level abstractions)
+- Design patterns and thier use
+- Data handling
+
